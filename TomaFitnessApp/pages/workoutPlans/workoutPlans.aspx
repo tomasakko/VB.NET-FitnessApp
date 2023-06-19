@@ -10,7 +10,6 @@
 
 <body>
     <uc:Navbar runat="server" />
-
     <div class="cardGroup">
         <asp:Repeater runat="server" ID="workoutPlansRepeater">
             <ItemTemplate>
@@ -25,7 +24,6 @@
             </ItemTemplate>
         </asp:Repeater>
     </div>
-
     <div class="workoutContainer">
         <div id="workoutsContainer"></div>
     </div>
