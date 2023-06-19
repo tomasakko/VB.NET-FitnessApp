@@ -7,7 +7,6 @@
     <link rel="stylesheet" href="components/navbar/navbarStyle.css" />
     <link rel="stylesheet" href="defaultStyles.css" />
 </head>
-
 <body>
     <uc:Navbar runat="server" />
         <div class="body">
@@ -67,10 +66,8 @@
             </div>
         </a>
     </div>
-
 </div>
 </div>
-    
 <form id="form1" runat="server">
 </form>
 </body>

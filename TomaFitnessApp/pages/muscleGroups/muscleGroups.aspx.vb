@@ -33,7 +33,7 @@ Public Class muscleGroups
   End Sub
 
   Private Sub RegisterStartupScript()
-    ' JavaScript function to display exercises HTML when called
+    ' function to display exercises HTML when called
     Dim script As String = "
             function displayExercises(exercisesHtml) {
                 var exercisesContainer = document.getElementById('exercisesContainer');
