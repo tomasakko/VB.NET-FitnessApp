@@ -1,0 +1,44 @@
+﻿html {
+    background-image: linear-gradient(to right, darkblue, black);
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+th{
+    color: white;
+}
+.cardGroup {
+    display: flex;
+    margin: 0px;
+    z-index: 100;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.72);
+}
+.container {
+    padding: 2px 16px;
+    transition: 0.3s;
+    width: 20%;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+.container:hover {
+        background-color: #cfebff;
+    }
+@font-face {
+    font-family: nokiaPure;
+    src: url(../../fonts/Nokia-Pure-Text-Regular.TTF)
+}
+body {
+    font-family: Calibri;
+    color: black;
+}
+img {
+    width: 100px;
+}
+.cardTitle {
+    font-family: nokiaPure;
+    font-size: 17px;
+}

@@ -1,0 +1,109 @@
+﻿details > summary {
+    list-style: none;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+@font-face {
+    font-family: nokiaPure;
+    src: url(../../fonts/Nokia-Pure-Text-Regular.TTF)
+}
+html {
+    background-image: linear-gradient(to right, darkblue, black);
+}
+.imgIcon {
+    width: 50px;
+    padding-top: 5%;
+}
+.cardGroup {
+    display: flex;
+    margin: 0px;
+    z-index: 100;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.72);
+}
+.saveProgress {
+    border-radius: 25px;
+    padding: 4px;
+    font-family: Calibri;
+    
+}
+.saveProgress:hover {
+        cursor: pointer;
+        background-color: lightblue;
+    }
+.cardTitle {
+    font-family: nokiaPure;
+    font-size: 17px;
+}
+.exerciseContainer {
+
+    display: none;
+}
+summary {
+    user-select: none; 
+    outline: none; 
+    cursor: pointer;
+}
+.exerciseContainer::-webkit-scrollbar {
+        display: none;
+    }
+@media (max-width: 600px) {
+
+    .cardGroup {
+        flex-wrap: wrap;
+    }
+
+    .exerciseContainer {
+        width: 100%;
+        margin-left: 0;
+    }
+}
+body::-webkit-scrollbar {
+    width: 8px;
+}
+body::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+}
+body::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+img {
+    width: 350px;
+    border-radius: 15px;
+}
+h4 {
+    color: rgba(255, 255, 255, 0.95);
+}
+input {
+    border-radius: 25px;
+    border: none;
+}
+.muscleCard {
+    transition: 0.3s;
+    width: 20%;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding-bottom: 25px;
+}
+.muscleCard:hover {
+        background-color: #cfebff;
+        cursor: pointer;
+    }
+p {
+        font-weight: 400;
+        font-family: Calibri;
+        padding: 0px;
+        margin: 0px;
+    }
+.container {
+    padding: 2px 16px;
+}

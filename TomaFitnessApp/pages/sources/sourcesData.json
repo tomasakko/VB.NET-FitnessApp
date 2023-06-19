@@ -1,0 +1,34 @@
+{
+  "sources": [
+    {
+      "name": "American Council on Exercise (ACE)",
+      "logo": "../../images/source/ace.png",
+      "description": "ACE is a leading nonprofit organization in the fitness industry. Their website provides a wealth of information on exercise programming, workout plans, and fitness education. ",
+      "link": "https://www.acefitness.org/"
+    },
+    {
+      "name": "National Academy of Sports Medicine (NASM)",
+      "logo": "../../images/source/nasm.png",
+      "description": "NASM is a well-respected organization that offers certifications and education in the fitness field. Their website includes articles and resources on exercise programming, strength training, and workout plans. ",
+      "link": "https://www.nasm.org/"
+    },
+    {
+      "name": "Bodybuilding.com",
+      "logo": "../../images/source/bodybuilding.png",
+      "description": "While the name suggests a focus on bodybuilding, this website offers a wide range of fitness information for all levels and goals. It provides workout planss, and articles on strength training and muscle development. ",
+      "link": "https://www.bodybuilding.com/"
+    },
+    {
+      "name": "ExRx.net",
+      "logo": "../../images/source/exrx.png",
+      "description": " ExRx.net is a comprehensive resource for exercise and fitness information. Their website includes detailed exercise libraries, workout routines, and information on strength training principles. ",
+      "link": "https://exrx.net/"
+    },
+    {
+      "name": "Men's Health and Women's Health",
+      "logo": "../../images/source/menhealth.png",
+      "description": "These popular magazines have online platforms that offer workout plans, fitness articles, and expert advice. While they cater to specific genders, the information provided can be valuable for individuals of any gender.",
+      "link": "https://www.menshealth.com/"
+    }
+  ]
+}

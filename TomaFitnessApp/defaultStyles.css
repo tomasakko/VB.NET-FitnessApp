@@ -1,0 +1,119 @@
+﻿.body {
+    color: white;
+    /*text-shadow: 2px 1px 6px white;*/
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+
+.header{
+    padding-left: 16%;
+}
+@font-face {
+    font-family: nokiaPure;
+    src: url(fonts/Nokia-Pure-Text-Regular.TTF)
+}
+
+.iconImg {
+    width: 50px;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
+a {
+    text-decoration: none;
+}
+.card1 {
+    transition: 0.3s;
+    width: 20%;
+    background-color: rgba(255, 255, 255, 0.65);
+    border-radius: 20px 0px 0px 20px;
+    margin-top: 6%;
+}
+.card2 {
+    transition: 0.3s;
+    width: 20%;
+    background-color: rgba(255, 255, 255, 0.65);
+    margin-top: 6%;
+}
+.card3 {
+    transition: 0.3s;
+    width: 20%;
+    background-color: rgba(255, 255, 255, 0.65);
+    border-radius: 0px 20px 20px 0px;
+    margin-top: 6%;
+}
+
+.cardTitle, .cardSubtext {
+    color: black;
+    
+}
+
+.cardGroup {
+    display: flex;
+    padding-left: 16%;
+    margin: 0px;
+}
+
+.cardTitle{
+    font-family: nokiaPure;
+    font-size: 18px;
+}
+
+.cardSubtext {
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 15px;
+    font-family: Arial;
+    padding-bottom: 15px;
+}
+
+.card1:hover {
+    cursor: pointer;
+    background-color: #cfebff;
+}
+.card2:hover {
+    cursor: pointer;
+    background-color: #cfebff;
+}
+.card3:hover {
+    cursor: pointer;
+    background-color: #cfebff;
+}
+
+
+.container {
+    padding: 2px 16px;
+}
+
+.text {
+    width: 60%;
+}
+
+h1 {
+    font-family:nokiaPure;
+    font-size: 50px;
+    font-weight: 100;
+}
+
+.subtitle {
+    font-weight:100;
+    width: 50%;
+    font-family: Calibri;
+    font-size: 17;
+    color: rgba(255, 255, 255, 0.7);
+}
+
+h2 {
+    font-family: 'Times New Roman';
+    font-style: italic;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+html {
+    background-image: linear-gradient(to right, darkblue, black);
+}

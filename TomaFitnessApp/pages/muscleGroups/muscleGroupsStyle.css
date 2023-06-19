@@ -1,0 +1,113 @@
+﻿details > summary {
+    list-style: none;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+html {
+    background-image: linear-gradient(to right, darkblue, black);
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+body::-webkit-scrollbar {
+        display: none;
+    }
+body::-webkit-scrollbar {
+    width: 8px;
+}
+body::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+}
+body::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+@font-face {
+    font-family: nokiaPure;
+    src: url(../../fonts/Nokia-Pure-Text-Regular.TTF)
+}
+.imgIcon {
+    width: 50px;
+    
+    padding-top: 5%;
+}
+.cardGroup {
+    display: flex;
+    margin: 0px;
+    z-index: 100;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.72);
+}
+.cardTitle {
+    font-family: nokiaPure;
+    font-size: 17px;
+}
+.exerciseContainer {
+    margin-top: 20px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 17px;
+    font-family: Calibri;
+    padding-bottom: 1.65%;
+    padding-left: 3%;
+    padding-right: 3%;
+    width: 40%;
+    margin: 0px;
+    background-color: rgba(169, 255, 237, 0.18);
+    overflow-y: auto;
+    height: calc(100vh - 350px);
+}
+.exerciseContainer::-webkit-scrollbar {
+    display: none;
+}
+@media (max-width: 600px) {
+
+    .cardGroup {
+        flex-wrap: wrap;
+    }
+
+    .exerciseContainer {
+        width: 100%;
+        margin-left: 0;
+    }
+}
+img {
+    width:350px;
+    border-radius: 15px;
+}
+h4 {
+    color: rgba(255, 255, 255, 0.95);
+}
+summary {
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.75);
+    margin: 3px;
+    display: inline-block;
+}
+summary:hover {
+        cursor: pointer;
+        background-color: rgba(207, 235, 255, 0.51);
+        color: white;
+        transition: 0.3s;
+        border-radius: 10px;
+    }
+.muscleCard {
+    transition: 0.3s;
+    width: 20%;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+.muscleCard:hover {
+    cursor: pointer;
+    background-color: #cfebff;
+}
+.cardSubtext {
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 13px;
+    font-family: Arial;
+}
+.container {
+    padding: 2px 16px;
+}

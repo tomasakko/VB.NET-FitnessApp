@@ -1,0 +1,145 @@
+{
+  "workoutPlans": [
+    {
+      "name": "Beginner Full-Body Workout",
+      "img": "../../images/workoutImgs/beginner.png",
+      "difficulty": "Difficulty Rating: 3/10",
+      "description": "This workout plan is designed for beginners and typically focuses on foundational exercises with lighter weights and moderate intensity.",
+      "workout": [
+        {
+          "day": "Day 1",
+          "exercises": "Squats, Push-ups, Bent-over Rows, Plank, Bicep Curls"
+        },
+        {
+          "day": "Day 2",
+          "exercises": "Lunges, Chest Press, Lat Pulldowns, Russian Twists, Tricep Dips"
+        },
+        {
+          "day": "Day 3",
+          "exercises": "Deadlifts, Shoulder Press, Leg Press, Bicycle Crunches, Hammer Curls",
+          "extraInfo": "For the beginner full body workout, it is typically recommended to perform 2-3 sets per exercise. This range allows for an appropriate balance between volume and intensity for beginners. <br><br> As a beginner, it is important to focus on learning proper form and technique for each exercise. Start with a weight that allows you to complete the desired number of sets and repetitions with good form. Over time, you can gradually increase the weight and adjust the sets and repetitions as you become more comfortable and stronger."
+        }
+      ]
+    },
+    {
+      "name": "Strength Training Split",
+      "img": "../../images/workoutImgs/novice.png",
+      "difficulty": "Difficulty Rating: 5/10",
+      "description": "The strength training split can vary in difficulty depending on the specific exercises, volume, and intensity used.",
+      "workout": [
+        {
+          "day": "Day 1",
+          "exercises": "Chest and Triceps - Bench Press, Dumbbell Flyes, Tricep Dips, Skull Crushers"
+        },
+        {
+          "day": "Day 2",
+          "exercises": "Back and Biceps - Deadlifts, Bent-over Rows, Lat Pulldowns, Bicep Curls"
+        },
+        {
+          "day": "Day 3",
+          "exercises": "Legs and Shoulders - Squats, Lunges, Shoulder Press, Lateral Raises",
+          "extraInfo": "Repeat the cycle, aiming for 3-4 sets of 8-10 reps for each exercise. Rest for 60-90 seconds between sets. <br><br> If you are a beginner or have limited time availability, you might start with fewer sets and gradually increase the volume over time. Conversely, if you are more advanced and looking to maximize muscle growth or strength gains, you might opt for higher volume with more sets. <br><br>A strength training split allows you to focus on specific muscle groups or movement patterns during each workout. By dedicating separate days to different muscle groups, you can prioritize their development and ensure adequate recovery for each group. With a split routine, you can perform more exercises and sets for each muscle group compared to a full-body workout. This increased training volume can contribute to greater muscle stimulation and growth over time. <br><br>"
+
+        }
+      ]
+    },
+    {
+      "name": "Upper-Lower Split",
+      "img": "../../images/workoutImgs/medium.png",
+      "difficulty": "Difficulty Rating: 6/10",
+      "description": "The upper-lower split can vary in difficulty depending on the specific exercises and training volume used.",
+      "workout": [
+        {
+          "day": "Day 1",
+          "exercises": "Upper Body - Bench Press, Rows, Overhead Press, Pull-ups, Tricep Pushdowns, Bicep Curls."
+        },
+        {
+          "day": "Day 2",
+          "exercises": "Lower Body - Squats, Deadlifts, Lunges, Leg Press, Hamstring Curls, Calf Raises.",
+          "extraInfo": "Repeat the cycle, aiming for 3-4 sets of 8-12 reps for each exercise. Rest for 60-90 seconds between sets.<br><br>With an upper-lower split, you can train each muscle group more frequently compared to a traditional full-body or bro-split routine. By dividing your training into upper and lower body sessions, you can work each muscle group multiple times per week, which can enhance muscle growth and strength gains.<br><br>The upper-lower split is a time-efficient training approach. By dividing your workouts into upper and lower body sessions, you can perform a greater number of exercises and sets within a specific time frame. This can be particularly beneficial if you have limited time available for each training session."
+        }
+
+      ]
+    },
+
+    {
+      "name": "Push-Pull-Legs (PPL) Split",
+      "img": "../../images/workoutImgs/medium.png",
+      "difficulty": "Difficulty Rating: 6/10",
+      "description": "The push pull legs split involves dividing workouts into pushing exercises (chest, shoulders, triceps), pulling exercises (back, biceps), and leg exercises.",
+      "workout": [
+        {
+          "day": "Day 1",
+          "exercises": "Push (Chest, Shoulders, Triceps) - Bench Press, Overhead Press, Dumbbell Flyes, Tricep Dips."
+        },
+        {
+          "day": "Day 2",
+          "exercises": "Pull (Back, Biceps) - Deadlifts, Bent-over Rows, Lat Pulldowns, Bicep Curls."
+        },
+        {
+          "day": "Day 3",
+          "exercises": "Legs (Quadriceps, Hamstrings, Calves) - Squats, Lunges, Leg Press, Romanian Deadlifts, Calf Raises.",
+          "extraInfo": "Repeat the cycle, aiming for 3-4 sets of 8-10 reps for each exercise. Rest for 60-90 seconds between sets.<br><br> The PPL split targets different muscle groups on different days, allowing for a balanced approach to muscle development. Push workouts focus on the chest, shoulders, and triceps, pull workouts target the back and biceps, and leg workouts engage the lower body muscles. This balanced approach helps prevent muscle imbalances and promotes overall symmetry.<br><br> The PPL split offers variety and keeps workouts interesting. By focusing on different muscle groups on different days, you can incorporate a wide range of exercises, techniques, and rep ranges. This variety helps prevent boredom, maintains motivation, and keeps you engaged in your fitness routine.<br><br>The PPL split provides a structured framework for progressive overload. By tracking your weights, sets, and reps over time, you can gradually increase the intensity of your workouts, stimulating muscle growth and strength gains.<br><br> "
+        }
+      ]
+    },
+    {
+      "name": "5x5 Strength Training",
+      "img": "../../images/workoutImgs/advanced.png",
+      "difficulty": "Difficulty Rating: 7/10",
+      "description": "The 5x5 strength training program typically involves performing compound exercises with heavy weights for 5 sets of 5 repetitions.",
+      "workout": [
+        {
+          "day": "Day 1",
+          "exercises": "Squats, Bench Press, Bent-over Rows."
+        },
+        {
+          "day": "Day 2",
+          "exercises": " Deadlifts, Overhead Press, Pull-ups (or Lat Pulldowns).",
+          "extraInfo": "Perform 5 sets of 5 reps for each exercise, using heavy weights that challenge you. Alternate between these two workouts, with at least one day of rest in between sessions.<br><br>The primary goal of a 5x5 strength training program is to build strength. The program typically revolves around compound exercises such as squats, deadlifts, bench presses, and overhead presses, which engage multiple muscle groups simultaneously. By lifting heavy weights for fewer repetitions, you can stimulate the nervous system and increase your overall strength.<br><br>The 5x5 program emphasizes progressive overload, which is crucial for continued strength gains. With each session, you aim to increase the weight you lift while maintaining proper form. This gradual progression challenges your muscles and forces them to adapt, leading to increased strength over time."
+
+        }
+      ]
+    },
+    {
+      "name": "German Volume Training (GVT)",
+      "img": "../../images/workoutImgs/difficult.png",
+      "difficulty": "Difficulty Rating: 8/10",
+      "description": "German Volume Training (GVT) is a high-volume training method that involves performing 10 sets of 10 repetitions for each exercise.",
+      "workout": [
+        {
+          "day": "Day 1",
+          "exercises": "Squats, Leg Press, Leg Curls, Calf Raises."
+        },
+        {
+          "day": "Day 2",
+          "exercises": "Bench Press, Dumbbell Flyes, Tricep Dips, Overhead Tricep Extensions."
+        },
+        {
+          "day": "Day 3",
+          "exercises": " Bent-over Rows, Lat Pulldowns, Bicep Curls, Hammer Curls.",
+          "extraInfo": "Perform 10 sets of 10 reps for each exercise, using a weight that is approximately 60% of your one-rep max. Aim for 60-90 seconds of rest between sets.<br><br>GVT is designed to promote significant muscle hypertrophy or muscle growth. By performing high volume sets (10 sets of 10 repetitions) with challenging weights, you create a strong muscle stimulus that can lead to muscle fiber recruitment and growth.<br><br>GVT workouts can significantly tax your cardiovascular system due to the high volume and intensity. This can improve your cardiovascular conditioning and overall fitness levels."
+        }
+      ]
+    },
+    {
+      "name": "Clusters Sets Workout",
+      "img": "../../images/workoutImgs/master.png",
+      "difficulty": "Difficulty Rating: 9/10",
+      "description": "This workout plan is designed to push your limits and stimulate significant strength and muscle gains. It requires a high level of conditioning, experience, and proper form.",
+      "workout": [
+        {
+          "day": "Day 1: Upper Body",
+          "exercises": "Bench Press, Pull-Ups, Overhead Press, Bent-Over Rows, Dumbbell Flyes"
+        },
+        {
+          "day": "Day 2: Lower Body",
+          "exercises": "Squats, Deadlifts, Lunges, Leg Press, Calf Raises.",
+          "extraInfo": "The weights used for cluster sets should be challenging, typically around 85-90% of your one-rep max (1RM). It is essential to prioritize proper form and technique throughout the exercises.<br><br>Cluster sets allow you to perform a higher overall volume of work compared to traditional straight sets. By incorporating short rest intervals within each set, you can accumulate more repetitions and stimulate muscle growth and strength development. Cluster sets are particularly effective for developing strength and power due to the ability to lift heavier weights. By splitting the set into clusters with brief rest intervals, you can sustain a higher level of force production and recruit more motor units, leading to improved strength gains.<br><br>It is important to note that cluster sets are an advanced training technique and may not be suitable for beginners or those with certain health conditions or limitations. It is recommended to consult with a qualified fitness professional to determine if cluster sets are appropriate for you and how to properly incorporate them into your training program."
+
+        }
+      ]
+    }
+
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "muscleGroups": [
+    {
+      "name": "Shoulders",
+      "description": "Strong and well-developed shoulder muscles are essential for performing daily activities that involve pushing, pulling, lifting, and carrying objects.",
+      "img": "../../images/muscles/shoulder.png",
+      "exercises": [
+        {
+          "name": "Overhead Press",
+          "description": "The overhead press, also known as the shoulder press, is a compound exercise that targets the entire shoulder complex, including the front deltoids, medial deltoids, and upper traps. It can be performed using dumbbells, a barbell, or a seated/standing shoulder press machine.",
+          "exerciseImg": "../../images/exercises/overheadPress.png" 
+        },
+        {
+          "name": "Lateral Raise",
+          "description": "Lateral raises primarily target the medial deltoids, which are responsible for shoulder width and the rounded appearance of the shoulders. Hold a dumbbell in each hand, stand with your feet shoulder-width apart, and lift the dumbbells out to the sides until they reach shoulder level. Control the movement and avoid using excessive momentum.",
+          "exerciseImg": "../../images/exercises/lateralRaise.png"
+        },
+        {
+          "name": "Rear Delt Flyes",
+          "description": "This exercise targets the rear deltoids, which are often underdeveloped compared to the front and medial deltoids. Stand with your feet hip-width apart, slightly bend your knees, hinge forward at the hips, and let your arms hang straight down with a dumbbell in each hand. Lift the dumbbells out to the sides.",
+          "exerciseImg": "../../images/exercises/rearDeltFly.png"
+        },
+        {
+          "name": "Upright Row",
+          "description": "Upright rows primarily target the medial deltoids and the upper traps. Hold a barbell or dumbbells in front of your thighs with an overhand grip, slightly narrower than shoulder-width apart. Lift the weight towards your chin, keeping it close to your body, while keeping your elbows higher than your forearms.",
+          "exerciseImg": "../../images/exercises/uprightRow.png"
+        },
+        {
+          "name": "Arnold Press",
+          "description": "Named after Arnold Schwarzenegger, this exercise targets all three heads of the shoulder muscles. Start with the dumbbells at shoulder level, palms facing you. As you press the weights overhead, rotate your palms outward, so they face away from you at the top of the movement. Reverse the motion on the way down.",
+          "exerciseImg": "../../images/exercises/arnoldPress.png"
+
+        }
+      ]
+    },
+    {
+      "name": "Chest",
+      "description": "Strong chest muscles play a significant role in pushing movements and contribute to overall upper body strength and aesthetics.",
+      "img": "../../images/muscles/chest.png",
+      "exercises": [
+        {
+          "name": "Barbell Bench Press",
+          "description": "The barbell bench press is a classic compound exercise that primarily targets the chest muscles (pectoralis major), but also works the triceps and anterior deltoids. Lie flat on a bench, hold a barbell with a grip slightly wider than shoulder-width apart, lower it to your chest, and press it back up.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Dumbbell Flyes",
+          "description": "Dumbbell flyes isolate the chest muscles and provide a stretching and contracting motion. Lie on a flat bench, hold a dumbbell in each hand with your palms facing each other, and extend your arms over your chest. Lower the dumbbells in an arc motion to the sides until you feel a stretch, then bring them back up to the starting position.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Push-ups",
+          "description": "Push-ups are a bodyweight exercise that targets the chest, triceps, and anterior deltoids. Start in a high plank position with your hands slightly wider than shoulder-width apart. Lower your body by bending your elbows until your chest nearly touches the floor, then push back up to the starting position.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Incline Dumbbell Press",
+          "description": "The incline dumbbell press targets the upper chest muscles. Set an adjustable bench to an incline position, hold a dumbbell in each hand, and lie back. Start with your arms extended, lower the dumbbells to the sides of your chest, and push them back up to the starting position.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Chest Dips",
+          "description": "Chest dips primarily target the chest muscles and triceps. Use parallel bars or dip bars, support your body with your arms extended, lower yourself by bending your elbows until your upper arms are parallel to the ground, then push yourself back up.",
+          "exerciseImg": "../../images/exercises/"
+        }
+      ]
+    },
+    {
+      "name": "Triceps",
+      "description": "The triceps, located on the back of the upper arm, play a crucial role in arm extension and pushing movements.",
+      "img": "../../images/muscles/tricep.png",
+      "exercises": [
+        {
+          "name": "Triceps Dips",
+          "description": "Triceps dips target the triceps muscles. Use parallel bars or dip bars, support your body with your arms extended, lower yourself by bending your elbows until your upper arms are parallel to the ground, then push yourself back up.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Close-Grip Bench Press",
+          "description": "The close-grip bench press is a variation of the traditional bench press that emphasizes the triceps. Lie on a flat bench and grip the barbell with your hands placed closer together than shoulder-width apart. Lower the barbell to your chest, then press it back up.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Triceps Pushdown",
+          "description": "The triceps pushdown is an isolation exercise that targets the triceps. Stand in front of a cable machine with a straight bar attached to the high pulley. Grip the bar with your palms facing down, elbows bent at 90 degrees, and push the bar downward by extending your elbows.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Overhead Triceps Extension",
+          "description": "Hold a dumbbell with both hands and lift it overhead. Keeping your upper arms close to your head, lower the dumbbell behind your head by bending your elbows. Extend your elbows to raise the dumbbell back to the starting position.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Diamond Push-ups",
+          "description": "Assume a push-up position, but bring your hands close together, forming a diamond shape with your thumbs and index fingers. Lower your body by bending your elbows, keeping your elbows close to your sides, and push back up to the starting position.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Skull Crushers",
+          "description": "Skull crushers, also known as lying triceps extensions or French presses, are a popular exercise that primarily targets the triceps muscles. They are performed by lying flat on a bench or the floor while holding a barbell, dumbbells, or an EZ-bar with an overhand grip.",
+          "exerciseImg": "../../images/exercises"
+        }
+      ]
+    },
+    {
+      "name": "Biceps",
+      "description": "Well-developed biceps not only contribute to arm strength but also add aesthetic appeal. ",
+      "img": "../../images/muscles/bicep.png",
+      "exercises": [
+        {
+          "name": "Barbell Biceps Curl",
+          "description": "Stand with your feet shoulder-width apart and hold a barbell with an underhand grip, hands slightly wider than shoulder-width apart. Keep your upper arms stationary and curl the barbell up toward your chest while contracting your biceps. Lower the barbell back to the starting position.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Dumbbell Hammer Curl",
+          "description": "Hold a pair of dumbbells with your palms facing your torso, arms fully extended. Keep your upper arms stationary and curl the dumbbells as you rotate your palms to face your shoulders. Lower the dumbbells back to the starting position.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Preacher Curls",
+          "description": "Sit at a preacher curl bench and place your upper arms on the angled pad. Hold an EZ-bar with an underhand grip, hands shoulder-width apart. Lower the barbell by fully extending your arms, then curl it up toward your shoulders while contracting your biceps. Lower the barbell back to the starting position.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Concentration Curls",
+          "description": "Sit on a bench with your legs spread apart. Hold a dumbbell in one hand, place the back of your upper arm against your inner thigh, and fully extend your arm. Curl the dumbbell up toward your shoulder while contracting your biceps. Lower the dumbbell back to the starting position.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Chin-ups",
+          "description": "Chin-ups are an upper body exercise that primarily targets the biceps, along with the back and shoulders. Grab an overhead bar with your palms facing towards you, hands shoulder-width apart. Pull your body up by bending your elbows until your chin reaches or clears the bar, then lower yourself back down.",
+          "exerciseImg": "../../images/exercises/"
+        }
+      ]
+    },
+    {
+      "name": "Back",
+      "description": "A strong back is essential for maintaining good posture, supporting the spine, and facilitating various pulling movements. ",
+      "img": "../../images/muscles/back.png",
+      "exercises": [
+        {
+          "name": "Pull-ups",
+          "description": "Grab an overhead bar with your palms facing away from you, hands slightly wider than shoulder-width apart. Pull your body up by bending your elbows until your chin clears the bar, then lower yourself back down.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Bent-Over Rows",
+          "description": "Hold a barbell with an overhand grip, hands slightly wider than shoulder-width apart. Bend your knees slightly, hinge forward at the hips, and let the barbell hang in front of you. Pull the barbell up towards your abdomen, squeezing your shoulder blades together, then lower it back down.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "T-Bar Rows",
+          "description": "Place one end of a barbell into a landmine attachment or secure it in a corner. Straddle the barbell, hinge forward at the hips, and hold the barbell with an overhand grip. Pull the barbell up towards your abdomen, keeping your back straight and squeezing your shoulder blades together, then lower it back down.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Single-Arm Dumbbell Rows",
+          "description": "Place one knee and one hand on a flat bench, with your other foot on the ground. Hold a dumbbell in the opposite hand with your arm fully extended. Pull the dumbbell up towards your hip, keeping your back straight and squeezing your shoulder blade, then lower it back down.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Lat Pulldowns",
+          "description": "Sit at a lat pulldown machine and grip the bar with an overhand grip, hands wider than shoulder-width apart. Pull the bar down towards your upper chest, squeezing your shoulder blades together, then slowly release it back up.",
+          "exerciseImg": "../../images/exercises/"
+        }
+      ]
+    },
+    {
+      "name": "Legs",
+      "description": "Building strong and powerful legs is crucial for overall strength, stability, and athletic performance. ",
+      "img": "../../images/muscles/leg.png",
+      "exercises": [
+        {
+          "name": "Squats",
+          "description": "Position a barbell across your upper back, resting it on your traps or using a squat rack. Stand with your feet shoulder-width apart and squat down by bending your knees and hips, keeping your back straight. Descend until your thighs are parallel to the ground, then push back up to the starting position.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Lunges",
+          "description": "Stand with your feet hip-width apart. Step forward with one leg and lower your body until your front knee is bent at a 90-degree angle, and your back knee is just above the ground. Push back up and repeat with the opposite leg.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Deadlifts",
+          "description": "Stand with your feet hip-width apart, toes under the barbell. Bend at the hips and knees, keeping your back straight, and grip the barbell with your hands shoulder-width apart. Lift the barbell by extending your hips and knees, keeping the barbell close to your body. Stand up straight, then lower the barbell back down to the starting position.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Leg Press",
+          "description": "Sit on a leg press machine with your feet on the footplate. Push the footplate away by extending your knees and hips until your legs are almost straight, then slowly lower it back down to the starting position.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Calf Raises",
+          "description": "Stand on an elevated surface such as a step or a calf raise machine with your heels hanging off the edge. Rise up onto your toes by extending your ankles as high as possible, then lower your heels back down to the starting position.",
+          "exerciseImg": "../../images/exercises/"
+        }
+      ]
+    },
+    {
+      "name": "Core",
+      "description": "A strong core is essential for stability, posture, and overall functional movement.",
+      "img": "../../images/muscles/abs.png",
+      "exercises": [
+        {
+          "name": "Plank",
+          "description": "Start in a push-up position, but rest on your forearms instead of your hands. Engage your core, keeping your body in a straight line from head to heels, and hold the position for a specified time.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Russian Twists",
+          "description": "Sit on the ground with your knees bent, lean back slightly, and lift your feet off the ground. Hold your hands together in front of you, and rotate your torso from side to side, touching the ground on each side.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Hanging Leg Raises",
+          "description": "Hang from a pull-up bar with your arms extended and lift your legs up by bending at the hips and raising your knees towards your chest. Lower your legs back down with control and repeat.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Ab Wheel Rollouts",
+          "description": "Kneel on the floor and hold an ab wheel or a barbell with weight plates in front of you. Roll the wheel forward, extending your body until your arms are fully extended in front of you. Keep your core engaged and roll the wheel back towards your knees to return to the starting position.",
+          "exerciseImg": "../../images/exercises/"
+        },
+        {
+          "name": "Mountain Climbers",
+          "description": "Assume a high plank position with your hands directly under your shoulders. Drive one knee towards your chest, then quickly switch legs, alternating the movement while maintaining a fast-paced rhythm.",
+          "exerciseImg": "../../images/exercises/"
+        }
+      ]
+    }
+
+  ]
+}

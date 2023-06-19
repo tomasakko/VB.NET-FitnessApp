@@ -1,0 +1,119 @@
+﻿details > summary {
+    list-style: none;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow:hidden;
+}
+html {
+    background-image: linear-gradient(to right, darkblue, black);
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+@font-face {
+    font-family: nokiaPure;
+    src: url(../../fonts/Nokia-Pure-Text-Regular.TTF)
+}
+html {
+    background-image: linear-gradient(to right, darkblue, black);
+}
+.imgIcon {
+    width: 50px;
+    padding-top: 5%;
+}
+.cardGroup {
+    display: flex;
+    margin: 0px;
+    z-index: 100;
+    box-shadow: 5px 10px 10px rgba(0, 0, 0, 0.72);
+}
+.cardTitle {
+    font-family: nokiaPure;
+    font-size: 17px;
+}
+.difficulty {
+    font-family: nokiaPure;
+    font-size: 13px;
+}
+.workoutContainer {
+    margin-top: 20px;
+    text-align: left;
+    color: rgba(255, 255, 255, 0.75);
+    font-size: 17px;
+    font-family: Calibri;
+    padding-bottom: 1.65%;
+    padding-left: 3%;
+    padding-right: 3%;
+    width: 40%;
+    margin: 0px;
+    background-color: rgba(169, 255, 237, 0.18);
+    overflow-y: auto;
+    height: calc(100vh - 350px);
+}
+.workoutContainer::-webkit-scrollbar {
+    display: none;
+}
+@media (max-width: 600px) {
+
+    .cardGroup {
+        flex-wrap: wrap;
+    }
+
+    .workoutContainer {
+        width: 100%;
+        margin-left: 0;
+    }
+}
+body::-webkit-scrollbar {
+    width: 8px;
+}
+body::-webkit-scrollbar-thumb {
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+}
+body::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+img {
+    width: 350px;
+    border-radius: 15px;
+}
+summary {
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.75);
+    margin: 3px;
+    display: inline-block;
+}
+h4 {
+    color: rgba(255, 255, 255, 0.95);
+}
+summary:hover {
+    cursor: pointer;
+    background-color: rgba(207, 235, 255, 0.51);
+    color: white;
+    transition: 0.3s;
+    border-radius: 10px;
+}
+.workoutCard {
+    transition: 0.3s;
+    width: 20%;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+.workoutCard:hover {
+    cursor: pointer;
+    background-color: #cfebff;
+}
+.cardSubtext {
+    color: rgba(0, 0, 0, 0.7);
+    font-size: 13px;
+    font-family: Arial;
+}
+.container {
+    padding: 2px 16px;
+}
