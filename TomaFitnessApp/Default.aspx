@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="components/navbar/navbarStyle.css" />
     <link rel="stylesheet" href="defaultStyles.css" />
 </head>
+
 <body>
     <uc:Navbar runat="server" />
         <div class="body">

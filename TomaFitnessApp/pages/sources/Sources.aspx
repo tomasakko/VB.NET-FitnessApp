@@ -16,21 +16,20 @@
                 <div class="container">
                     <div class="sourceCard">
                     <div class="sourceLogo">
-                        <img src="<%# Eval("logo") %>" alt="<%# Eval("name") %> logo" />
+                        <img src='<%# Eval("logo") %>' alt='<%# Eval("name") %> logo' />
                     </div>
                 </div>
                 <div class="sourceDetails">
-                        <h3 class="cardTitle" >
-
-                            <a class="sourceLink" href='<%# Eval("link") %>'>
-
-                            <%# Eval("name") %></h3>
-                    </a>
+                        <h3 class="cardTitle">
+                            <a class="sourceLink" href='<%# Eval("link") %>' target="_blank">
+                                <%# Eval("name") %>
+                            </a>
+                        </h3>
                         <p><%# Eval("description") %></p>
                     </div>
                 </div>
-                </ItemTemplate>
-             </asp:Repeater>
+            </ItemTemplate>
+        </asp:Repeater>
     </div>
 </body>
 </html>

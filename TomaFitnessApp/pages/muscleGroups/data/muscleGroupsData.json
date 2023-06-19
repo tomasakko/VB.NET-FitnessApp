@@ -76,11 +76,6 @@
           "exerciseImg": "../../images/exercises/"
         },
         {
-          "name": "Close-Grip Bench Press",
-          "description": "The close-grip bench press is a variation of the traditional bench press that emphasizes the triceps. Lie on a flat bench and grip the barbell with your hands placed closer together than shoulder-width apart. Lower the barbell to your chest, then press it back up.",
-          "exerciseImg": "../../images/exercises/"
-        },
-        {
           "name": "Triceps Pushdown",
           "description": "The triceps pushdown is an isolation exercise that targets the triceps. Stand in front of a cable machine with a straight bar attached to the high pulley. Grip the bar with your palms facing down, elbows bent at 90 degrees, and push the bar downward by extending your elbows.",
           "exerciseImg": "../../images/exercises/"
